@@ -20,6 +20,10 @@ cd workout-tracker-app
 Install the dependencies:
 npm install
 
+## Page Routes
+For Workout Form: http://localhost:4200/form
+For List: http://localhost:4200/list
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
