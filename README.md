@@ -1,4 +1,4 @@
-#Workout Tracker App
+##Workout Tracker App
 
 This is an Angular 14+ single-page application (SPA) designed to track workouts. The application allows users to input their workout details, display the workout list with functionalities to search by name, filter by workout type, and paginate the results. Data is persisted using localStorage.
 
